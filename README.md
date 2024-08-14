@@ -1,1 +1,2 @@
-Frontend CRUD sederhana dengan flutter 
+Frontend CRUD sederhana dengan flutter
+Authentication menggunakan firebase
