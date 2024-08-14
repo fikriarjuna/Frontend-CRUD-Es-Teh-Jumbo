@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "287047561003",
+    "project_id": "estehjumbo-8a538",
+    "storage_bucket": "estehjumbo-8a538.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287047561003:android:ea80dc1594682055cb5f6e",
+        "android_client_info": {
+          "package_name": "com.example.tehjumbofirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF0FKcewcRw-RmATl2fnWGMzQbmu21fO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
